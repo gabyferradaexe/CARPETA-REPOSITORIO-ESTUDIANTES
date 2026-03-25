@@ -1,1 +1,4 @@
-# pc-dis09214-2026-1-seccion-2
+## APUNTES ##  
+Arquitectura del pensamiento 
+## Máquina Diferencial ##  
+Creada por Charles Babbage en 1822 -> Utilizaba engranajes 
