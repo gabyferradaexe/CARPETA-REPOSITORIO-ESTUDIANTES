@@ -18,13 +18,13 @@ y con ello al momento de traspasarlo a p5.js se presentaron las dificultades má
 
 ## CÓDIGO P5.JS  
 
-function setup() {
-  createCanvas(500, 500);
-  background(255, 227, 250); // Se le agrega un fondo al canvas
-  angleMode(DEGREES);
-}
+function setup() {  
+  createCanvas(500, 500);  
+  background(255, 227, 250); // Se le agrega un fondo al canvas  
+  angleMode(DEGREES);  
+}  
 
-function draw() {  
+function draw() {    
   //background(220);  
   noStroke()  
   fill(196, 0, 0); // Se le agrega relleno de color rojo al Rectangulo   
